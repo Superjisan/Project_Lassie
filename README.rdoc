@@ -1,28 +1,12 @@
-== README
+== Project Lassie
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project Lassie is a simple app meant to prevent suicide prevention. It can also act as a way for your to contact people you trust at times of need.
 
-Things you may want to cover:
+This app is built on:
 
-* Ruby version
+* Rails 4.0.4, Ruby Version 2.0.0
 
-* System dependencies
+* It is meant to be mobile-friendly.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
+* Further Instructions to follow..
 <tt>rake doc:app</tt>.
