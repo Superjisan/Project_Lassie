@@ -1,6 +1,6 @@
 == Project Lassie
 
-Project Lassie is a simple app meant to prevent suicide prevention. It can also act as a way for your to contact people you trust at times of need.
+Project Lassie is a simple app meant to prevent suicide. It can also act as a way for your to contact people you trust at times of need.
 
 This app is built on:
 
