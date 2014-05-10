@@ -2,7 +2,7 @@ ProjectLassie::Application.routes.draw do
 
 
   get "login/home"
-  root  'login#home'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
